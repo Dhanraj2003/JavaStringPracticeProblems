@@ -4,7 +4,7 @@ public class PalindromeString {
 
     public static void main(String[] args) {
 
-        String originalString="Aba";
+        String originalString="aba";
         String temp=originalString;
         String revString="";
 
